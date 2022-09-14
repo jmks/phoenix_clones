@@ -2,6 +2,17 @@
 
 A clone of a microblogging platform.
 
+* [ ] users
+* [ ] post microblog entries
+* [ ] (un)follow a user
+* [ ] publicly message @another_user
+* [ ] private messages
+* [ ] reproduce another user's entry in their own blag
+* [ ] timeline of all public entries
+* [ ] APIs for external applications
+
+## Phoneix stuff
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
